@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.8.5 | Ngày: 5/11/2026
+Phiên bản: 3.8.6 | Ngày: 5/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. Khắc phục triệt để lỗi thiếu tài nguyên giao diện (MissingManifestResourceException: frmManager.resources) trên toàn bộ 4 phân hệ lõi (Receivables, Lease, Fund, Library)
+1. 1. Triet de xu ly xung dot khoa file LandSoftBuilding.exe khi Auto-Update: tu dong ngat tien trinh bang Environment.Exit(0), doi ten file dang anh xa bo nho (.old_*) ngay lap tuc va tu dong don dep. 2. Bao gom day du 219 tai nguyen Embedded Resource (.resources) cho toan bo cac phan he.
 ========================================================================
