@@ -1,11 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.8.4 | Ngày: 04/11/2026
+Phiên bản: 3.8.5 | Ngày: 5/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. Sửa lỗi khớp MaLX khi import bảng kê phí giữ xe và tự động gán Company Code cho hóa đơn import (dvHoaDon / frmImport.cs).
-2. Tối ưu bộ tự động cập nhật Auto-Updater: Sửa triệt để lỗi font tiếng Việt, tăng tốc kết nối HTTP và chuẩn hóa so sánh phiên bản.
-3. Cập nhật bản vá logic cọc thi công và hoàn trả công nợ (LandSoftBuilding.Lease.dll).
-4. Tối ưu nạp phiếu thu (ptPhieuThu_GetList) trên CSDL SQL Server từ 437s xuống 1.2s.
+1. Khắc phục triệt để lỗi thiếu tài nguyên giao diện (MissingManifestResourceException: frmManager.resources) trên toàn bộ 4 phân hệ lõi (Receivables, Lease, Fund, Library)
 ========================================================================
