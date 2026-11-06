@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.8.9 | Ngày: 6/11/2026
+Phiên bản: 3.8.10 | Ngày: 6/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. 1. Doi tieu de cua so Dang nhap thanh Dang nhap - LS EWH. 2. Doi dong chu gioi thieu man hinh Dang nhap thanh Phan mem QLKTVH toa nha. 3. Doi ten Shortcut Desktop thanh LS EWH.
+1. Bo tai khoan va mat khau mac dinh (son.dip) dien san tren man hinh Dang nhap sau khi cai dat.
 ========================================================================
