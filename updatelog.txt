@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.8.7 | Ngày: 6/11/2026
+Phiên bản: 3.8.8 | Ngày: 6/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. 1. Thiet ke moi bo Icon Shortcut & Application Icon chuyen nghiep theo hinh anh toa nha Eurowindow Holding (da do phan giai 16px-256px). 2. Doi thu muc cai dat mac dinh thanh LS EWH. 3. Giu nguyen phan mem LandSoft cu khi chay bo cai dat moi.
+1. 1. Thay the Banner tren man hinh MAIN bang Logo Eurowindow Holding chinh thuc. 2. Tich hop san Key ket noi CSDL mac dinh (Building_EuroWindow_db) de tu dong ket noi ngay sau khi cai dat. 3. Hien thi them ten Database ket noi o thanh trang thai duoi chan phan mem ngay sau Version.
 ========================================================================
