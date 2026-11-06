@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.8.10 | Ngày: 6/11/2026
+Phiên bản: 3.9.0 | Ngày: 6/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. Bo tai khoan va mat khau mac dinh (son.dip) dien san tren man hinh Dang nhap sau khi cai dat.
+1. Bổ sung chức năng Khóa tính lãi (Dịch vụ hóa đơn) và Khóa gửi TBP (Quản lý căn hộ)
 ========================================================================
