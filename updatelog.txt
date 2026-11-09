@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.0 | Ngày: 6/11/2026
+Phiên bản: 3.9.1 | Ngày: 9/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. Bổ sung chức năng Khóa tính lãi (Dịch vụ hóa đơn) và Khóa gửi TBP (Quản lý căn hộ)
+1. Gỡ bỏ chức năng Khóa tính lãi (sử dụng chức năng Miễn lãi có sẵn), giữ nguyên chức năng Khóa gửi TBP
 ========================================================================
