@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.6 | Ngày: 10/11/2026
+Phiên bản: 3.9.7 | Ngày: 10/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-022: Thêm màn hình 2. Báo cáo thu tuần chi tiết v2 (SAP_BaoCaoThuTuan_New_2_ChiTiet) vào menu BÁO CÁO (NEW)
+1. CHG-023: Khac phuc triet de loi bao trung so dien thoai an (TenDangNhap) khi sua thong tin Khach hang (DichVu.KhachHang & dbo.tnKhachHang)
 ========================================================================
