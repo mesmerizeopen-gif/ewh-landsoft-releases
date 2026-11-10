@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.5 | Ngày: 10/11/2026
+Phiên bản: 3.9.6 | Ngày: 10/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. Khôi phục nguyên trạng Báo cáo thu tuần v2 như bản 3.9.2
+1. CHG-022: Thêm màn hình 2. Báo cáo thu tuần chi tiết v2 (SAP_BaoCaoThuTuan_New_2_ChiTiet) vào menu BÁO CÁO (NEW)
 ========================================================================
