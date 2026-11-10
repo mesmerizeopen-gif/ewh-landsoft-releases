@@ -1,8 +1,9 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.1 | Ngày: 9/11/2026
+Phiên bản: 3.9.2 | Ngày: 10/11/2026
 ========================================================================
 
-[Nội dung nâng cấp & vá lỗi]:
-1. Gỡ bỏ chức năng Khóa tính lãi (sử dụng chức năng Miễn lãi có sẵn), giữ nguyên chức năng Khóa gửi TBP
+[BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
+1. Cập nhật hệ thống phiên bản v3.9.2 (UAT).
+2. Sửa lỗi và tối ưu hiệu năng hệ thống.
 ========================================================================
