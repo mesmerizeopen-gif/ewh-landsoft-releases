@@ -1,8 +1,14 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.1 | Ngày: 9/11/2026
+Phiên bản: 3.9.7 | Ngày: 11/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. Gỡ bỏ chức năng Khóa tính lãi (sử dụng chức năng Miễn lãi có sẵn), giữ nguyên chức năng Khóa gửi TBP
+1. Cập nhật hệ thống phiên bản v3.9.2.
+2. Sửa lỗi và tối ưu hiệu năng hệ thống.
+3. CHG-021: Điều chỉnh màu hiển thị các cột tổng hợp (9, 10, 14, 18) tương thích hoàn toàn với Giao diện tối (Dark Theme) trên Báo cáo thu tuần v2
+4. CHG-021: Giữ màu nền sáng trên thanh tiêu đề Band và Cột (tương thích cả Giao diện sáng và tối)
+5. Khôi phục nguyên trạng Báo cáo thu tuần v2 như bản 3.9.2
+6. CHG-022: Thêm màn hình 2. Báo cáo thu tuần chi tiết v2 (SAP_BaoCaoThuTuan_New_2_ChiTiet) vào menu BÁO CÁO (NEW)
+7. CHG-023: Khac phuc triet de loi bao trung so dien thoai an (TenDangNhap) khi sua thong tin Khach hang (DichVu.KhachHang & dbo.tnKhachHang)
 ========================================================================
