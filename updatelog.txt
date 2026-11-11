@@ -1,8 +1,9 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.8 | Ngày: 11/11/2026
+Phiên bản: 3.9.9 | Ngày: 11/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-022: Sửa hiển thị ô khi click trên Báo cáo thu tuần v2 & Chi tiết v2, lược bỏ ký hiệu số công thức trên tiêu đề cột Báo cáo chi tiết v2
+1. Cập nhật hệ thống phiên bản v3.9.9 (UAT).
+2. Sửa lỗi và tối ưu hiệu năng hệ thống.
 ========================================================================
