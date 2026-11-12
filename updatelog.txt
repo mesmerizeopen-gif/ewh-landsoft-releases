@@ -1,9 +1,9 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.10 | Ngày: 11/11/2026
+Phiên bản: 3.9.11 | Ngày: 12/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. Cập nhật hệ thống phiên bản v3.9.10 (UAT).
+1. Cập nhật hệ thống phiên bản v3.9.11 (UAT).
 2. Sửa lỗi và tối ưu hiệu năng hệ thống.
 ========================================================================
