@@ -1,10 +1,13 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.9 | Ngày: 11/11/2026
+Phiên bản: 3.9.14 | Ngày: 13/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. CHG-022: Sửa hiển thị ô khi click trên Báo cáo thu tuần v2 & Chi tiết v2, lược bỏ ký hiệu số công thức trên tiêu đề cột Báo cáo chi tiết v2
-2. Cập nhật hệ thống phiên bản v3.9.9.
-3. Sửa lỗi và tối ưu hiệu năng hệ thống.
+1. Cập nhật hệ thống phiên bản v3.9.10.
+2. Sửa lỗi và tối ưu hiệu năng hệ thống.
+3. Cập nhật hệ thống phiên bản v3.9.11.
+4. Cập nhật hệ thống phiên bản v3.9.12.
+5. Cập nhật hệ thống phiên bản v3.9.13.
+6. Cập nhật hệ thống phiên bản v3.9.14.
 ========================================================================
