@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.19 | Ngày: 18/11/2026
+Phiên bản: 3.9.20 | Ngày: 18/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-025 (v3.9.19): Khắc phục hiển thị thanh nút thao tác (Chọn file Excel, Sheet, Kiểm tra & Xem trước, Lưu gạch nợ, Rollback) trên giao diện Sáng/Tối, tự động hiển thị Preview Master-Detail ngay khi nạp file và hỗ trợ đọc file đang mở trên Excel
+1. CHG-025 (v3.9.20): Chuyển liên kết đợt Import sang bảng độc lập ptPhieuThu_ImportBatch_Item (Zero-Lock, không khóa bảng nóng ptPhieuThu khi vận hành Production)
 ========================================================================
