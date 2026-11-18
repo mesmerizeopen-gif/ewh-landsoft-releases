@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.17 | Ngày: 18/11/2026
+Phiên bản: 3.9.18 | Ngày: 18/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-025: Triển khai phân hệ Thanh toán công nợ (Export/Import gạch nợ tự động có Preview Master-Detail, Import chi tiết hóa đơn & Thu trước, Cấu hình dự án tại Danh mục -> Dịch vụ, Rollback 1-Click & đồng bộ RBAC)
+1. CHG-025 (v3.9.18): Khắc phục lỗi xuất Excel trống dữ liệu (gắn ContainerControl BindingContext cho GridControl ẩn & xuất đầy đủ thông tin khách hàng đang chọn/lọc từ màn hình Công nợ)
 ========================================================================
