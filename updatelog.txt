@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.18 | Ngày: 18/11/2026
+Phiên bản: 3.9.19 | Ngày: 18/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-025 (v3.9.18): Khắc phục lỗi xuất Excel trống dữ liệu (gắn ContainerControl BindingContext cho GridControl ẩn & xuất đầy đủ thông tin khách hàng đang chọn/lọc từ màn hình Công nợ)
+1. CHG-025 (v3.9.19): Khắc phục hiển thị thanh nút thao tác (Chọn file Excel, Sheet, Kiểm tra & Xem trước, Lưu gạch nợ, Rollback) trên giao diện Sáng/Tối, tự động hiển thị Preview Master-Detail ngay khi nạp file và hỗ trợ đọc file đang mở trên Excel
 ========================================================================
