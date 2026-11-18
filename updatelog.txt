@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.20 | Ngày: 18/11/2026
+Phiên bản: 3.9.21 | Ngày: 18/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-025 (v3.9.20): Chuyển liên kết đợt Import sang bảng độc lập ptPhieuThu_ImportBatch_Item (Zero-Lock, không khóa bảng nóng ptPhieuThu khi vận hành Production)
+1. CHG-026: Khai bao quy tac tien coc, tab Quy dinh coc & bao cao hop dong thue chi tiet v2.5
 ========================================================================
