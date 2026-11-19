@@ -1,9 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.22 | Ngày: 19/11/2026
+Phiên bản: 3.9.23 | Ngày: 19/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. CHG-026: Khai bao quy tac tien coc, tab Quy dinh coc & bao cao hop dong thue chi tiet v2.5
-2. CHG-026: Doi text don gia tien thue thanh tien thue MB trong form Khai bao quy tac coc va bao cao hop dong thue chi tiet
+1. CHG-027: Sua loi mien lai hoa don da thanh toan (bo rang buoc DaThu=0 trong dv_hoadon_mien_lai, dong bo SoTienLai va lich su mien lai)
 ========================================================================
