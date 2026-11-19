@@ -1,11 +1,9 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.20 | Ngày: 18/11/2026
+Phiên bản: 3.9.22 | Ngày: 19/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. CHG-025: Triển khai phân hệ Thanh toán công nợ (Export/Import gạch nợ tự động có Preview Master-Detail, Import chi tiết hóa đơn & Thu trước, Cấu hình dự án tại Danh mục -> Dịch vụ, Rollback 1-Click & đồng bộ RBAC)
-2. CHG-025 (v3.9.18): Khắc phục lỗi xuất Excel trống dữ liệu (gắn ContainerControl BindingContext cho GridControl ẩn & xuất đầy đủ thông tin khách hàng đang chọn/lọc từ màn hình Công nợ)
-3. CHG-025 (v3.9.19): Khắc phục hiển thị thanh nút thao tác (Chọn file Excel, Sheet, Kiểm tra & Xem trước, Lưu gạch nợ, Rollback) trên giao diện Sáng/Tối, tự động hiển thị Preview Master-Detail ngay khi nạp file và hỗ trợ đọc file đang mở trên Excel
-4. CHG-025 (v3.9.20): Chuyển liên kết đợt Import sang bảng độc lập ptPhieuThu_ImportBatch_Item (Zero-Lock, không khóa bảng nóng ptPhieuThu khi vận hành Production)
+1. CHG-026: Khai bao quy tac tien coc, tab Quy dinh coc & bao cao hop dong thue chi tiet v2.5
+2. CHG-026: Doi text don gia tien thue thanh tien thue MB trong form Khai bao quy tac coc va bao cao hop dong thue chi tiet
 ========================================================================
