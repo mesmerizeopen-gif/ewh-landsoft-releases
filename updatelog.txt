@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.26 | Ngày: 20/11/2026
+Phiên bản: 3.9.27 | Ngày: 20/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-030: Bang nhap tien coc theo mat bang va de trong, khong tinh chenh lech coc cho HD chua khai bao tren bao cao
+1. CHG-030: Luoi nhap tien coc 2 cot moi MB 1 dong va tinh chenh lech coc chuan ky theo lich TT tren bao cao
 ========================================================================
