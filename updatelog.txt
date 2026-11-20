@@ -1,9 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.24 | Ngày: 19/11/2026
+Phiên bản: 3.9.25 | Ngày: 20/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-028: Đăng ký nút Khai báo quy tắc cọc vào cây danh mục phân quyền RBAC (pqModule, pqModule_FormControl, pqAccessRight).
-2. Đồng bộ kiểm tra phân quyền trên toolbar và context menu chuột phải tab Quy định cọc.
+1. CHG-029: Bo sung truong TienCoc vao quy tac coc ctHopDong_quytactiencoc, dong bo vao Bao cao HD thue chi tiet va ho tro khai bao coc theo tung mat bang
 ========================================================================
