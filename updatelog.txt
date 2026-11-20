@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.27 | Ngày: 20/11/2026
+Phiên bản: 3.9.28 | Ngày: 20/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. CHG-030: Luoi nhap tien coc 2 cot moi MB 1 dong va tinh chenh lech coc chuan ky theo lich TT tren bao cao
+1. CHG-025 (v3.9.28): Export cong no tong & chi tiet de trong cac cot thong tin thu tien, lay truc tiep du lieu man hinh cong no
 ========================================================================
