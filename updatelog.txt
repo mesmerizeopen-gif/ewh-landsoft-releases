@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.31 | Ngày: 25/11/2026
+Phiên bản: 3.9.32 | Ngày: 25/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-032 UI fix: Khac phuc de chu thanh Sao chep mau quyen (TableLayoutPanel), sua ky tu & thanh _ tren tieu de va khong cat chu so du an da chon
+1. CHG-025.2 (v3.9.32): Tu dong sinh dien giai phieu thu tong chuan nhu thu tien thuc te (frmPayment) cho Import gach no tu dong va chi tiet
 ========================================================================
