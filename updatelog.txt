@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.28 | Ngày: 20/11/2026
+Phiên bản: 3.9.29 | Ngày: 25/11/2026
 ========================================================================
 
 [Nội dung nâng cấp & vá lỗi]:
-1. CHG-025 (v3.9.28): Export cong no tong & chi tiet de trong cac cot thong tin thu tien, lay truc tiep du lieu man hinh cong no
+1. CHG-031: Module App - Cai dat phong ban - Hien thi va cho phep them nhan vien duoc phan quyen vao du an (tnToaNhaNguoiDung), loai bo trung dong va chan luu nham phong ban cheo du an.
 ========================================================================
