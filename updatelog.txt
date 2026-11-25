@@ -1,8 +1,8 @@
 ﻿========================================================================
 LandSoft Building - Cập nhật hệ thống EuroWindow Holding
-Phiên bản: 3.9.29 | Ngày: 25/11/2026
+Phiên bản: 3.9.30 | Ngày: 25/11/2026
 ========================================================================
 
 [BẢN KIỂM THỬ KÊNH UAT (TEST TRƯỚC KHI DEPLOY PRD)]:
-1. CHG-031: Module App - Cai dat phong ban - Hien thi va cho phep them nhan vien duoc phan quyen vao du an (tnToaNhaNguoiDung), loai bo trung dong va chan luu nham phong ban cheo du an.
+1. CHG-032: Quan tri tai khoan & phan quyen All-in-One (Da du an + Mobile App + Automation) va Khoa/Mo khoa co Log Snapshot khoi phuc
 ========================================================================
